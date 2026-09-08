@@ -2,7 +2,7 @@
 
 A from-scratch Python implementation of brute-force frequent-itemset mining and the Apriori algorithm. The project compares exhaustive candidate enumeration with Apriori's join-and-prune strategy and verifies that both methods produce identical association rules.
 
-This was an individual midterm project completed by Steven Meyer for CS 634 Data Mining at the New Jersey Institute of Technology.
+This was an individual midterm project completed for CS 634 Data Mining at the New Jersey Institute of Technology.
 
 ## Project objectives
 
